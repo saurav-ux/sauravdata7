@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "PostS 1" },
-    { "id": 2, "title": "Posts 2" },
-    { "id": 3, "title": "Posts 3" }
+    { "id": 1, "title": "PostS 1" ,"body":"body1", "userId":"saurav12"},
+    { "id": 2, "title": "Posts 2" ,"body":"body2" , "userId":"saurav13"},
+    { "id": 3, "title": "Posts 3" ,"body":"body3" , "userId":"saurav14"}
   ],
   "comments": [
     { "id": 1, "bodya": "some comments", "postId": 1 },
